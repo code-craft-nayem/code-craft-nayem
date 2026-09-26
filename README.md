@@ -147,6 +147,21 @@
   <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
 </p>
 
+<!-- ===================== GITHUB CONTRIBUTIONS ===================== -->
+
+<h2>📊 GitHub Statistics and Analysis</h2>
+
+<h3>🐍 GitHub Contributions</h3>
+
+<p align="center">
+
+<img
+  src="https://raw.githubusercontent.com/code-craft-nayem/code-craft-nayem/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
+
+</p>
+
 
 ### 🎨 Design and Graphics
 
