@@ -162,67 +162,9 @@
 </p>
 
 
-<!-- ===================== GITHUB STATS ===================== -->
-
-<h2>📊 GitHub Statistics</h2>
-
-<p align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=code-craft-nayem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-  height="180"
-/>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=code-craft-nayem&theme=tokyonight&hide_border=true"
-  height="180"
-/>
-
-</p>
-
-
-<!-- ===================== TOP LANGUAGES ===================== -->
-
-<h2>💻 Most Used Languages</h2>
-
-<p align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-craft-nayem&layout=compact&theme=tokyonight&hide_border=true"
-  height="180"
-/>
-
-</p>
-
-
-<!-- ===================== CURRENTLY WORKING ON ===================== -->
-
-<h2>🎯 Currently Working On</h2>
-
-<p align="center">
-
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=Improving+My+Frontend+Skills;Building+Full+Stack+Projects;Learning+Advanced+JavaScript;Learning+TypeScript;Building+Real+World+Applications"
-    alt="Currently Working On"
-  />
-</a>
-
-</p>
-
-
-<!-- ===================== PROFILE VIEWS ===================== -->
-
-<p align="center">
-
-<img
-  src="https://komarev.com/ghpvc/?username=code-craft-nayem&label=Profile%20Views&color=0e75b6&style=for-the-badge"
-/>
-
-</p>
-
-
 <!-- ===================== FOOTER ===================== -->
+
+<br/>
 
 <div align="center">
 
