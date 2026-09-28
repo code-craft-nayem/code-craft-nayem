@@ -1,13 +1,14 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ==================== HEADER ==================== -->
 
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:0066FF,100:00D9FF&height=220&section=header&text=Nayem%20Hasan&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=Full%20Stack%20Developer&descSize=24&descAlignY=62&descColor=FFFFFF"
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:0066FF,100:00D9FF&height=220&section=header&text=Nayem%20Hasan&fontSize=55&fontColor=FFFFFF&fontAlignY=42&desc=Full%20Stack%20Developer&descSize=24&descAlignY=64&descColor=FFFFFF"
     width="100%"
   />
 </p>
 
-<!-- ===================== TITLE ===================== -->
+
+<!-- ==================== INTRO ==================== -->
 
 <h2 align="center">
   <span style="color:#00D9FF;">Passionate</span>
@@ -15,21 +16,13 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Nayem+Hasan;Full+Stack+Developer;Always+Learning+%26+Building;Code+%7C+Build+%7C+Grow" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Nayem+Hasan;Full+Stack+Developer;Always+Learning+%26+Building;Code+%7C+Build+%7C+Grow"
+  />
 </p>
 
 
-
-
-<!-- ===================== ABOUT ME ===================== -->
-
-<h2 align="center">👋 Hello! I'm Nayem Hasan</h2>
-
-<p align="center">
-  <b>Full Stack Developer</b>
-</p>
-
-<hr/>
+<!-- ==================== ABOUT ME ==================== -->
 
 <table>
 <tr>
@@ -39,7 +32,7 @@
 ## 🚀 About Me
 
 - 🚀 I'm currently working on developing my programming skills
-- 🌱 I'm currently learning JavaScript, TypeScript and React.js
+- 🌱 I'm currently learning **Full Stack Web Development**
 - 🎓 I was a student of **Baghair High School**
 - 🏫 Currently studying at **Daffodil Polytechnic Institute**
 - 💻 My learning platform is **Programming Hero**
@@ -50,13 +43,14 @@
 
 <td width="45%" align="center">
 
-<img 
+<img
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
   width="100%"
   alt="Coding Animation"
 />
 
 </td>
+
 </tr>
 </table>
 
