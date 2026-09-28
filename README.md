@@ -1,24 +1,24 @@
-<!-- ===================== HERO ===================== -->
+<!-- ===================== HEADER ===================== -->
 
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:0066FF,100:00D9FF&height=220&section=header&text=Nayem%20Hasan&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=65&descSize=22"
-  width="100%"
-/>
-
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Member+at+iLabs360;Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Software+Engineering"
-    alt="Typing SVG"
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:0066FF,100:00D9FF&height=220&section=header&text=Nayem%20Hasan&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=Full%20Stack%20Developer&descSize=24&descAlignY=62&descColor=FFFFFF"
+    width="100%"
   />
-</a>
+</p>
 
-</div>
+<!-- ===================== TITLE ===================== -->
 
-<br/>
+<h2 align="center">
+  <span style="color:#00D9FF;">Passionate</span>
+  <span style="color:#A855F7;"> Full Stack Web Developer</span>
+</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Nayem+Hasan;Full+Stack+Developer;Always+Learning+%26+Building;Code+%7C+Build+%7C+Grow" />
+</p>
+
+
 
 
 <!-- ===================== ABOUT ME ===================== -->
@@ -36,30 +36,27 @@
 
 <td width="55%" valign="top">
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🔭 I'm currently working on my own **skill development**
-- 🌱 I'm currently learning **Advanced Web and App Development**
-- 💬 Ask me about **Web and App Development**
-- 🎓 I was a student of **Firoza Basher Ideal College**
+- 🚀 I'm currently working on developing my programming skills
+- 🌱 I'm currently learning JavaScript, TypeScript and React.js
+- 🎓 I was a student of **Baghair High School**
 - 🏫 Currently studying at **Daffodil Polytechnic Institute**
-- 💻 My learning platform is **Ostad**
-- 🎨 Learned Figma UI/UX Design from **Udemy**
-- 📱 Learned Mobile App Development from **Interactive Cares**
-- 💻 Currently learning **MERN Stack** from **Programming Hero**
-- ⚡ Always learning, building and improving my skills
+- 💻 My learning platform is **Programming Hero**
+- 💻 Currently learning **Full Stack** from **Programming Hero**
+- ⚡ Always learning, building, and improving my skills
 
 </td>
 
 <td width="45%" align="center">
 
-<img
-  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
-  width="380"
+<img 
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  width="100%"
+  alt="Coding Animation"
 />
 
 </td>
-
 </tr>
 </table>
 
