@@ -20,11 +20,7 @@
   Building modern web applications and improving my development skills every day.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/💻_Code-Building-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀_Learning-Always-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌱_Growing-Everyday-06B6D4?style=for-the-badge" />
-</p>
+
 
 
 <br />
