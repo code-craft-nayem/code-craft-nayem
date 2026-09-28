@@ -1,49 +1,76 @@
-<!-- ================= BANNER ================= -->
-<div align="center">
+<!-- ==================== PROFILE HEADER ==================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,12&height=220&section=header&text=Nayem%20Hasan&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=24&descAlignY=60&animation=fadeIn" width="100%" alt="Nayem Hasan - Full Stack Developer" />
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,50:1D4ED8,100:06B6D4&height=230&section=header&text=Nayem%20Hasan&fontSize=58&fontColor=FFFFFF&fontAlignY=45&desc=Full%20Stack%20Web%20Developer&descSize=23&descAlignY=68&descColor=E0F2FE"
+    width="100%"
+  />
+</p>
 
-<!-- ================= TYPING TITLE ================= -->
-<a href="https://github.com/code-craft-nayem">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Passionate+Full+Stack+Web+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
-</a>
 
-<br/>
+<!-- ==================== INTRO ==================== -->
 
-## 👋 Hello! I'm *Nayem Hasan*
+<h1 align="center">
+  👋 Hello, I'm Nayem Hasan
+</h1>
 
-*Full Stack Developer*
+<p align="center">
+  <strong>Full Stack Web Developer</strong>
+  <br />
+  Building modern web applications and improving my development skills every day.
+</p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/💻_Code-Building-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_Learning-Always-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌱_Growing-Everyday-06B6D4?style=for-the-badge" />
+</p>
 
-<br/>
 
-<!-- ================= ABOUT ME ================= -->
+<br />
+
+
+<!-- ==================== ABOUT ME ==================== -->
+
 <table>
 <tr>
-<td width="55%" valign="top">
 
-### 🚀 About Me
+<td width="58%" valign="top">
 
-- 🚀 I'm currently working on my own *skill development*
-- 🌱 I'm currently learning *Full Stack Web Development*
-- 🎓 I was a student of *Baghair High School*
-- 🏫 Currently studying at *Daffodil Polytechnic Institute*
-- 💻 My learning platform is *Programming Hero*
-- 💻 Currently learning *Full Stack* from *Programming Hero*
-- ⚡ Always learning, *building*, and improving my skills
+## 👨‍💻 About Me
+
+- 🚀 I'm currently working on developing my programming skills
+- 🌱 I'm currently learning **Full Stack Web Development**
+- 🎓 I was a student of **Baghair High School**
+- 🏫 Currently studying at **Daffodil Polytechnic Institute**
+- 💻 My learning platform is **Programming Hero**
+- 💻 Currently learning **Full Stack** from **Programming Hero**
+- ⚡ Always learning, building, and improving my skills
+
+<br />
+
+### 🎯 My Goal
+
+To become a skilled **Full Stack Developer** by continuously
+learning, building real-world projects, and improving my problem-solving skills.
 
 </td>
-<td width="45%" align="center" valign="middle">
 
-<!-- Nijer image ta repo te assets/coder.png naame upload koro -->
-<img src="./assets/coder.png" alt="Coding setup" width="100%" />
+<td width="42%" align="center">
+
+<img
+  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+  width="95%"
+  alt="Developer Coding Animation"
+/>
 
 </td>
+
 </tr>
 </table>
 
-<br/>
+
+<br />
 
 
 <!-- ===================== SOCIAL ===================== -->
