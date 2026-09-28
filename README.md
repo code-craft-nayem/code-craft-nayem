@@ -1,58 +1,49 @@
-<!-- ==================== HEADER ==================== -->
+<!-- ================= BANNER ================= -->
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:0066FF,100:00D9FF&height=220&section=header&text=Nayem%20Hasan&fontSize=55&fontColor=FFFFFF&fontAlignY=42&desc=Full%20Stack%20Developer&descSize=24&descAlignY=64&descColor=FFFFFF"
-    width="100%"
-  />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,12&height=220&section=header&text=Nayem%20Hasan&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=24&descAlignY=60&animation=fadeIn" width="100%" alt="Nayem Hasan - Full Stack Developer" />
 
+<!-- ================= TYPING TITLE ================= -->
+<a href="https://github.com/code-craft-nayem">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Passionate+Full+Stack+Web+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
+</a>
 
-<!-- ==================== INTRO ==================== -->
+<br/>
 
-<h2 align="center">
-  <span style="color:#00D9FF;">Passionate</span>
-  <span style="color:#A855F7;"> Full Stack Web Developer</span>
-</h2>
+## 👋 Hello! I'm *Nayem Hasan*
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Nayem+Hasan;Full+Stack+Developer;Always+Learning+%26+Building;Code+%7C+Build+%7C+Grow"
-  />
-</p>
+*Full Stack Developer*
 
+</div>
 
-<!-- ==================== ABOUT ME ==================== -->
+<br/>
 
+<!-- ================= ABOUT ME ================= -->
 <table>
 <tr>
-
 <td width="55%" valign="top">
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 🚀 I'm currently working on developing my programming skills
-- 🌱 I'm currently learning **Full Stack Web Development**
-- 🎓 I was a student of **Baghair High School**
-- 🏫 Currently studying at **Daffodil Polytechnic Institute**
-- 💻 My learning platform is **Programming Hero**
-- 💻 Currently learning **Full Stack** from **Programming Hero**
-- ⚡ Always learning, building, and improving my skills
-
-</td>
-
-<td width="45%" align="center">
-
-<img
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  width="100%"
-  alt="Coding Animation"
-/>
+- 🚀 I'm currently working on my own *skill development*
+- 🌱 I'm currently learning *Full Stack Web Development*
+- 🎓 I was a student of *Baghair High School*
+- 🏫 Currently studying at *Daffodil Polytechnic Institute*
+- 💻 My learning platform is *Programming Hero*
+- 💻 Currently learning *Full Stack* from *Programming Hero*
+- ⚡ Always learning, *building*, and improving my skills
 
 </td>
+<td width="45%" align="center" valign="middle">
 
+<!-- Nijer image ta repo te assets/coder.png naame upload koro -->
+<img src="./assets/coder.png" alt="Coding setup" width="100%" />
+
+</td>
 </tr>
 </table>
+
+<br/>
 
 
 <!-- ===================== SOCIAL ===================== -->
