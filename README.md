@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,50:1D4ED8,100:06B6D4&height=230&section=header&text=Nayem%20Hasan&fontSize=58&fontColor=FFFFFF&fontAlignY=45&desc=Full%20Stack%20Web%20Developer&descSize=23&descAlignY=68&descColor=E0F2FE"
+    src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,50:1D4ED8,100:06B6D4&height=230&section=header&text=Nayem%20Hasan&fontSize=58&fontColor=67E8F9&fontAlignY=45&desc=Full%20Stack%20Web%20Developer&descSize=23&descAlignY=68&descColor=E0F2FE"
     width="100%"
   />
 </p>
