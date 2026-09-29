@@ -96,22 +96,21 @@ learning, building real-world projects, and improving my problem-solving skills.
   />
 </a>
 
-<a href="https://dev.to/" target="_blank">
+<a href="https://www.instagram.com/nayem16879/" target="_blank">
   <img
-    src="https://skillicons.dev/icons?i=devto"
+    src="https://skillicons.dev/icons?i=instagram"
     width="45"
   />
 </a>
 
-<a href="https://stackoverflow.com/" target="_blank">
+<a href="https://www.facebook.com/share/1FZ7JXhf8e/" target="_blank">
   <img
-    src="https://skillicons.dev/icons?i=stackoverflow"
+    src="https://skillicons.dev/icons?i=facebook"
     width="45"
   />
 </a>
 
 </p>
-
 
 <!-- ===================== TECHNOLOGY STACK ===================== -->
 
