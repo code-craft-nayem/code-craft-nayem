@@ -105,12 +105,12 @@ learning, building real-world projects, and improving my problem-solving skills.
 
 <a href="https://www.facebook.com/share/1FZ7JXhf8e/" target="_blank">
   <img
-    src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+    src="https://cdn.simpleicons.org/facebook/1877F2"
+    width="45"
     height="45"
+    alt="Facebook"
   />
 </a>
-
-</p>
 
 <!-- ===================== TECHNOLOGY STACK ===================== -->
 
