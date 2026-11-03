@@ -106,12 +106,15 @@ I am a **Full Stack Web Developer** with a passion for learning and building mod
 ## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=code-craft-nayem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=22D3EE&text_color=94A3B8" alt="Nayem's GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=code-craft-nayem&theme=tokyonight&hide_border=true&background=0B1220&ring=38BDF8&fire=22D3EE&currStreakNum=94A3B8&sideNums=94A3B8" alt="Nayem's GitHub Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=code-craft-nayem&theme=github_dark" alt="Nayem's GitHub Stats" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=code-craft-nayem&theme=github_dark" alt="Top Languages by Repo" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=code-craft-nayem&theme=github_dark" alt="Top Languages by Commit" width="48%" />
 </div>
 
 ---
-
 ## Connect With Me
 
 <p align="center">
