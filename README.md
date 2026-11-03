@@ -82,19 +82,12 @@ learning, building real-world projects, and improving my problem-solving skills.
   />
 </a>
 
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/code-craft-nayem?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank">
-  <img
-    src="https://skillicons.dev/icons?i=linkedin"
-    width="45"
-  />
+<a href="https://www.linkedin.com/in/code-craft-nayem" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
 </a>
 
-<a href="
-https://discord.com/users/1501069908350599338" target="_blank">
-  <img
-    src="https://skillicons.dev/icons?i=discord"
-    width="45"
-  />
+<a href="https://discord.com/users/1501069908350599338" target="_blank">
+  <img src="https://skillicons.dev/icons?i=discord" width="45" />
 </a>
 
 <a href="https://www.instagram.com/nayem16879/" target="_blank">
