@@ -1,144 +1,197 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    PREMIUM PROFILE BANNER                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ==================== PROFILE HEADER ==================== -->
 
-<div align="center">
-  <img src="./assets/banner.svg" alt="Nayem Hasan — Full Stack Web Developer" width="100%" />
-</div>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,50:1D4ED8,100:06B6D4&height=230&section=header&text=Nayem%20Hasan&fontSize=58&fontColor=67E8F9&fontAlignY=45&desc=Full%20Stack%20Web%20Developer&descSize=23&descAlignY=68&descColor=E0F2FE"
+    width="100%"
+  />
+</p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        HERO GREETING                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<!-- ==================== INTRO ==================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Nayem+Hasan;Full+Stack+Web+Developer;Building+Modern+Web+Applications" alt="Typing SVG" />
+  👋 Hello, I'm Nayem Hasan
 </h1>
 
-<h3 align="center">Full Stack Web Developer</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Bangladesh-0B1220?style=flat-square&logo=googlemaps&logoColor=38BDF8" alt="Location" />
-  <a href="mailto:[YOUR_EMAIL_ADDRESS]">
-    <img src="https://img.shields.io/badge/Email-Contact-0B1220?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
-  </a>
+  <strong>Full Stack Web Developer</strong>
+  <br />
+  Building modern web applications and improving my development skills every day.
 </p>
 
----
 
-## About Me
 
-I am a **Full Stack Web Developer** with a passion for learning and building modern web applications. I am currently sharpening my programming and development skills through a structured Full Stack Web Development program at **Programming Hero**.
 
-- 🎓 Studied at **Baghair High School**
-- 📚 Currently studying at **Daffodil Polytechnic Institute**
-- 💻 Learning **Full Stack Web Development** through **Programming Hero**
-- 🚀 I enjoy exploring new technologies and building clean, modern web experiences
-- 🎯 **Current Activity:** I am currently exploring Next.js and building a modern tourism website.
-- 🎯 **Goal:** to grow into a skilled Full Stack Developer by shipping real-world projects and strengthening problem-solving.
+<br />
 
----
 
-## My Goals
-
-- Build and ship production-quality full stack applications
-- Strengthen problem-solving and data structure fundamentals
-- Master modern JavaScript, React, Node.js and database ecosystems
-- Contribute to real-world projects and collaborate with other developers
-- Grow toward a professional Full Stack Developer role
-
----
-
-## Currently Learning
+<!-- ==================== ABOUT ME ==================== -->
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📖 Full Stack Web Development</h4>
-      <p>Structured learning path through <b>Programming Hero</b> — covering frontend, backend, database and deployment.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧠 Core Development Skills</h4>
-      <p>Continuous improvement in JavaScript, TypeScript, React, Next.js, Node.js, Express.js and database design.</p>
-    </td>
-  </tr>
+<tr>
+
+<td width="58%" valign="top">
+
+## 👨‍💻 About Me
+
+- 🚀 I'm currently working on developing my programming skills
+- 🌱 I'm currently learning **Full Stack Web Development**
+- 🎓 I was a student of **Baghair High School**
+- 🏫 Currently studying at **Daffodil Polytechnic Institute**
+- 💻 My learning platform is **Programming Hero**
+- 💻 Currently learning **Full Stack** from **Programming Hero**
+- ⚡ Always learning, building, and improving my skills
+
+<br />
+
+### 🎯 My Goal
+
+To become a skilled **Full Stack Developer** by continuously
+learning, building real-world projects, and improving my problem-solving skills.
+
+</td>
+
+<td width="42%" align="center">
+
+<img
+  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+  width="95%"
+  alt="Developer Coding Animation"
+/>
+
+</td>
+
+</tr>
 </table>
 
----
 
-## Technology Stack
+<br />
 
-### Languages
+
+<!-- ===================== SOCIAL ===================== -->
+
+<h2>🌐 Connect With Me</h2>
+
+<p align="left">
+
+<a href="https://github.com/code-craft-nayem" target="_blank">
+  <img
+    src="https://skillicons.dev/icons?i=github"
+    width="45"
+  />
+</a>
+
+<a href="https://www.linkedin.com/" target="_blank">
+  <img
+    src="https://skillicons.dev/icons?i=linkedin"
+    width="45"
+  />
+</a>
+
+<a href="https://discord.com/" target="_blank">
+  <img
+    src="https://skillicons.dev/icons?i=discord"
+    width="45"
+  />
+</a>
+
+<a href="https://www.instagram.com/nayem16879/" target="_blank">
+  <img
+    src="https://skillicons.dev/icons?i=instagram"
+    width="45"
+  />
+</a>
+
+<a href="https://www.facebook.com/share/1FZ7JXhf8e/" target="_blank">
+  <img
+    src="https://cdn.simpleicons.org/facebook/1877F2"
+    width="45"
+    height="45"
+    alt="Facebook"
+  />
+</a>
+
+<!-- ===================== TECHNOLOGY STACK ===================== -->
+
+<h2>🧰 Technology Stack</h2>
+
+
+### 💻 Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py&theme=dark" alt="Languages: HTML, CSS, JavaScript, TypeScript, Python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
 </p>
 
-### CSS Frameworks & Libraries
+
+### 🎨 CSS Frameworks and Libraries
+
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mui&theme=dark" alt="Tailwind CSS, Bootstrap, Material UI" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui" />
 </p>
 
-### JavaScript Frameworks & Libraries
+
+### ⚛️ JavaScript Frameworks and Libraries
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express&theme=dark" alt="React, Next.js, Redux, Node.js, Express.js" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express" />
 </p>
 
-### Databases & ORM
+
+### 🗄️ Database and ORM
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase&theme=dark" alt="MongoDB, MySQL, PostgreSQL, Prisma, Supabase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase" />
 </p>
 
-### Deployment Platforms
+
+### 🚀 Deployment Platforms
+
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase&theme=dark" alt="Vercel, Netlify, Firebase" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
 </p>
 
-### Design & Graphics
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop&theme=dark" alt="Figma, Adobe Illustrator, Adobe Photoshop" />
+<!-- ===================== GITHUB CONTRIBUTIONS ===================== -->
+
+<h2>📊 GitHub Statistics and Analysis</h2>
+
+<h3>🐍 GitHub Contributions</h3>
+
+<p align="center">
+
+<img
+  src="https://raw.githubusercontent.com/code-craft-nayem/code-craft-nayem/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
+
 </p>
 
-### Tools & Technologies
+
+### 🎨 Design and Graphics
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,windows,ubuntu,notion&theme=dark" alt="Git, GitHub, VS Code, Postman, Docker, Windows, Ubuntu, Notion" />
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
 </p>
 
----
-## GitHub Statistics
+
+### 🛠️ Tools and Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,windows,ubuntu,notion" />
+</p>
+
+
+<!-- ===================== FOOTER ===================== -->
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-craft-nayem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=22D3EE&text_color=94A3B8" alt="Nayem's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-craft-nayem&theme=tokyonight&hide_border=true&background=0B1220&ring=38BDF8&fire=22D3EE&currStreakNum=94A3B8&sideNums=94A3B8" alt="Nayem's GitHub Streak" width="48%" />
+
+<h3>💙 Thanks for visiting my profile!</h3>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0066FF,100:7F00FF&height=120&section=footer"
+  width="100%"
+/>
+
 </div>
-
----
-## Connect With Me
-
-<p align="center">
-  <a href="https://github.com/code-craft-nayem" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub Profile" />
-  </a>
-  <a href="https://www.instagram.com/nayem16879/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
-  </a>
-  <a href="https://www.facebook.com/share/1FZ7JXhf8e/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile" />
-  </a>
-  <a href="[YOUR_LINKEDIN_PROFILE_URL]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-  </a>
-  <a href="[YOUR_DISCORD_PROFILE_URL]" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile" />
-  </a>
-</p>
-
----
-
-## Thank You for Visiting
-
-<p align="center">
-  <i>Thanks for stopping by my profile. Feel free to explore my repositories, and connect if you'd like to collaborate or just say hello.</i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Passion-38BDF8?style=flat-square&labelColor=0B1220" alt="Made with Passion" />
-</p>
