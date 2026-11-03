@@ -8,10 +8,10 @@
 </p>
 
 
-<!-- ==================== INTRO ==================== -->
+<!-- ==================== INTRO (ANIMATED) ==================== -->
 
 <h1 align="center">
-  👋 Hello, I'm Nayem Hasan
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=👋+Hello,+I'm+Nayem+Hasan" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -19,8 +19,6 @@
   <br />
   Building modern web applications and improving my development skills every day.
 </p>
-
-
 
 
 <br />
@@ -187,11 +185,36 @@ learning, building real-world projects, and improving my problem-solving skills.
 
 <div align="center">
 
-<h3>💙 Thanks for visiting my profile!</h3>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1D4ED8&height=2" width="60%" />
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0066FF,100:7F00FF&height=120&section=footer"
-  width="100%"
-/>
+  <br/><br/>
+
+  <h2>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=💙+Thanks+for+visiting+my+profile!" alt="Typing SVG" />
+  </h2>
+
+  <p><i>Let's build something amazing together.</i></p>
+
+  <p align="center">
+    <a href="https://github.com/code-craft-nayem" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://www.facebook.com/share/1FZ7JXhf8e/" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/nayem16879/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+  </p>
+
+  <br/>
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0066FF,100:7F00FF&height=120&section=footer"
+    width="100%"
+  />
 
 </div>
