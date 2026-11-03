@@ -1,101 +1,197 @@
-<!-- ===================== PROJECTS ===================== -->
-
-<h2>🚀 My Projects</h2>
+<!-- ==================== PROFILE HEADER ==================== -->
 
 <p align="center">
-  Here are some of the projects I've built while learning Full Stack Web Development.
+  <img
+    src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,50:1D4ED8,100:06B6D4&height=230&section=header&text=Nayem%20Hasan&fontSize=58&fontColor=67E8F9&fontAlignY=45&desc=Full%20Stack%20Web%20Developer&descSize=23&descAlignY=68&descColor=E0F2FE"
+    width="100%"
+  />
 </p>
 
-<br/>
+
+<!-- ==================== INTRO ==================== -->
+
+<h1 align="center">
+  👋 Hello, I'm Nayem Hasan
+</h1>
+
+<p align="center">
+  <strong>Full Stack Web Developer</strong>
+  <br />
+  Building modern web applications and improving my development skills every day.
+</p>
+
+
+
+
+<br />
+
+
+<!-- ==================== ABOUT ME ==================== -->
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-### 🛒 Project Name 1
-> A short one-line description of what this project does.
+## 👨‍💻 About Me
 
-A modern web app built with **React**, **Tailwind CSS**, and **Firebase**.
-It allows users to browse products, add items to a cart, and complete
-a secure checkout process.
+- 🚀 I'm currently working on developing my programming skills
+- 🌱 I'm currently learning **Full Stack Web Development**
+- 🎓 I was a student of **Baghair High School**
+- 🏫 Currently studying at **Daffodil Polytechnic Institute**
+- 💻 My learning platform is **Programming Hero**
+- 💻 Currently learning **Full Stack** from **Programming Hero**
+- ⚡ Always learning, building, and improving my skills
 
-**✨ Key Features:**
-- 🔐 User authentication (login/register)
-- 🛍️ Product listing & filtering
-- 🛒 Shopping cart with real-time updates
-- 📱 Fully responsive design
+<br />
 
-**🛠️ Tech Stack:** React • Tailwind CSS • Firebase
+### 🎯 My Goal
 
-🔗 [Live Demo](https://your-demo-link.com) &nbsp;|&nbsp; [Source Code](https://github.com/code-craft-nayem/project-1)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📝 Project Name 2
-> A short one-line description of what this project does.
-
-A full-stack blog platform built with the **MERN stack** where users can
-create, edit, and delete posts, leave comments, and search by category.
-
-**✨ Key Features:**
-- ✍️ Create, edit & delete posts
-- 💬 Comment system
-- 🔎 Search and category filters
-- ☁️ Image upload with Cloudinary
-
-**🛠️ Tech Stack:** MongoDB • Express • React • Node.js
-
-🔗 [Live Demo](https://your-demo-link.com) &nbsp;|&nbsp; [Source Code](https://github.com/code-craft-nayem/project-2)
+To become a skilled **Full Stack Developer** by continuously
+learning, building real-world projects, and improving my problem-solving skills.
 
 </td>
 
-</tr>
-<tr>
+<td width="42%" align="center">
 
-<td width="50%" valign="top">
-
-### 🌦️ Project Name 3
-> A short one-line description of what this project does.
-
-A real-time weather dashboard that fetches live data from a public
-weather API and displays current conditions plus a 7-day forecast.
-
-**✨ Key Features:**
-- 🌍 Search weather by city
-- 📊 7-day forecast view
-- 🌙 Dark / light mode toggle
-- ⚡ Fast, responsive UI
-
-**🛠️ Tech Stack:** React • TypeScript • Weather API
-
-🔗 [Live Demo](https://your-demo-link.com) &nbsp;|&nbsp; [Source Code](https://github.com/code-craft-nayem/project-3)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎯 Project Name 4
-> A short one-line description of what this project does.
-
-A task management app built with **Next.js** and **Node.js** that helps
-users organize daily tasks with deadlines, priorities, and progress tracking.
-
-**✨ Key Features:**
-- ✅ Create, update & complete tasks
-- 🔔 Deadline reminders
-- 📈 Progress tracking dashboard
-- 🔐 Secure authentication
-
-**🛠️ Tech Stack:** Next.js • Node.js • MongoDB • Tailwind CSS
-
-🔗 [Live Demo](https://your-demo-link.com) &nbsp;|&nbsp; [Source Code](https://github.com/code-craft-nayem/project-4)
+<img
+  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+  width="95%"
+  alt="Developer Coding Animation"
+/>
 
 </td>
 
 </tr>
 </table>
 
+
+<br />
+
+
+<!-- ===================== SOCIAL ===================== -->
+
+<h2>🌐 Connect With Me</h2>
+
+<p align="left">
+
+<a href="https://github.com/code-craft-nayem" target="_blank">
+  <img
+    src="https://skillicons.dev/icons?i=github"
+    width="45"
+  />
+</a>
+
+<a href="https://www.linkedin.com/" target="_blank">
+  <img
+    src="https://skillicons.dev/icons?i=linkedin"
+    width="45"
+  />
+</a>
+
+<a href="https://discord.com/" target="_blank">
+  <img
+    src="https://skillicons.dev/icons?i=discord"
+    width="45"
+  />
+</a>
+
+<a href="https://www.instagram.com/nayem16879/" target="_blank">
+  <img
+    src="https://skillicons.dev/icons?i=instagram"
+    width="45"
+  />
+</a>
+
+<a href="https://www.facebook.com/share/1FZ7JXhf8e/" target="_blank">
+  <img
+    src="https://cdn.simpleicons.org/facebook/1877F2"
+    width="45"
+    height="45"
+    alt="Facebook"
+  />
+</a>
+
+<!-- ===================== TECHNOLOGY STACK ===================== -->
+
+<h2>🧰 Technology Stack</h2>
+
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
+</p>
+
+
+### 🎨 CSS Frameworks and Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui" />
+</p>
+
+
+### ⚛️ JavaScript Frameworks and Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express" />
+</p>
+
+
+### 🗄️ Database and ORM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase" />
+</p>
+
+
+### 🚀 Deployment Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
+</p>
+
+<!-- ===================== GITHUB CONTRIBUTIONS ===================== -->
+
+<h2>📊 GitHub Statistics and Analysis</h2>
+
+<h3>🐍 GitHub Contributions</h3>
+
+<p align="center">
+
+<img
+  src="https://raw.githubusercontent.com/code-craft-nayem/code-craft-nayem/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
+
+</p>
+
+
+### 🎨 Design and Graphics
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
+</p>
+
+
+### 🛠️ Tools and Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,windows,ubuntu,notion" />
+</p>
+
+
+<!-- ===================== FOOTER ===================== -->
+
 <br/>
+
+<div align="center">
+
+<h3>💙 Thanks for visiting my profile!</h3>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0066FF,100:7F00FF&height=120&section=footer"
+  width="100%"
+/>
+
+</div>
