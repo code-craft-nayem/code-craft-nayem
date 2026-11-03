@@ -1,130 +1,144 @@
-<!-- ==================== PROFILE HEADER ==================== -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                    PREMIUM PROFILE BANNER                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <!-- আপনার ছবির লিংক নিচে বসান -->
- <img src="https://github.com/user-attachments/assets/0afba904-72e7-4782-87a5-deb7b062d214" alt="Nayem Hasan" width="160" style="border-radius: 50%; border: 3px solid #38bdf8; box-shadow: 0 0 20px #38bdf8; margin-bottom: 20px;" />
-  
-  <!-- আপনার নতুন ব্যানার -->
   <img src="./assets/banner.svg" alt="Nayem Hasan — Full Stack Web Developer" width="100%" />
-  
-  <!-- টেক স্ট্যাক আইকন -->
-  <br>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs,express,mongodb,react,nextjs&theme=dark" alt="Tech Stack" />
-  
-  <!-- অ্যানিমেটেড হ্যালো টেক্সট -->
-  <br><br>
-  <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=👋+Hello,+I'm+Nayem+Hasan" alt="Typing SVG" />
-  </h1>
-  
-  <h3 align="center">Full Stack Web Developer</h3>
-  <p align="center"><i>Building modern web applications and improving my development skills every day.</i></p>
 </div>
 
-<br />
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                        HERO GREETING                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!-- ==================== ABOUT ME ==================== -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Nayem+Hasan;Full+Stack+Web+Developer;Building+Modern+Web+Applications" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">Full Stack Web Developer</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Bangladesh-0B1220?style=flat-square&logo=googlemaps&logoColor=38BDF8" alt="Location" />
+  <a href="mailto:[YOUR_EMAIL_ADDRESS]">
+    <img src="https://img.shields.io/badge/Email-Contact-0B1220?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
+</p>
+
+---
+
+## About Me
+
+I am a **Full Stack Web Developer** with a passion for learning and building modern web applications. I am currently sharpening my programming and development skills through a structured Full Stack Web Development program at **Programming Hero**.
+
+- 🎓 Studied at **Baghair High School**
+- 📚 Currently studying at **Daffodil Polytechnic Institute**
+- 💻 Learning **Full Stack Web Development** through **Programming Hero**
+- 🚀 I enjoy exploring new technologies and building clean, modern web experiences
+- 🎯 **Current Activity:** I am currently exploring Next.js and building a modern tourism website.
+- 🎯 **Goal:** to grow into a skilled Full Stack Developer by shipping real-world projects and strengthening problem-solving.
+
+---
+
+## My Goals
+
+- Build and ship production-quality full stack applications
+- Strengthen problem-solving and data structure fundamentals
+- Master modern JavaScript, React, Node.js and database ecosystems
+- Contribute to real-world projects and collaborate with other developers
+- Grow toward a professional Full Stack Developer role
+
+---
+
+## Currently Learning
 
 <table>
-<tr>
-<td width="58%" valign="top">
-
-## 👨‍💻 About Me
-
-- 🚀 I'm currently working on developing my programming skills
-- 🌱 I'm currently learning **Full Stack Web Development**
-- 🎓 I was a student of **Baghair High School**
-- 🏫 Currently studying at **Daffodil Polytechnic Institute**
-- 💻 My learning platform is **Programming Hero**
-- ⚡ Always learning, building, and improving my skills
-
-<br />
-
-### 🎯 My Goal
-
-To become a skilled **Full Stack Developer** by continuously learning, building real-world projects, and improving my problem-solving skills.
-
-</td>
-<td width="42%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="95%" alt="Developer Coding Animation" />
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📖 Full Stack Web Development</h4>
+      <p>Structured learning path through <b>Programming Hero</b> — covering frontend, backend, database and deployment.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧠 Core Development Skills</h4>
+      <p>Continuous improvement in JavaScript, TypeScript, React, Next.js, Node.js, Express.js and database design.</p>
+    </td>
+  </tr>
 </table>
 
-<br />
+---
 
-<!-- ===================== SOCIAL ===================== -->
+## Technology Stack
 
-<h2>🌐 Connect With Me</h2>
-
-<p align="left">
-  <a href="https://github.com/code-craft-nayem" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="45" />
-  </a>
-  <a href="[YOUR_LINKEDIN_PROFILE_URL]" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
-  </a>
-  <a href="[YOUR_DISCORD_PROFILE_URL]" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="45" />
-  </a>
-  <a href="https://www.instagram.com/nayem16879/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
-  </a>
-  <a href="https://www.facebook.com/share/1FZ7JXhf8e/" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="45" height="45" alt="Facebook" />
-  </a>
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py&theme=dark" alt="Languages: HTML, CSS, JavaScript, TypeScript, Python" />
 </p>
 
-<br />
-
-<!-- ===================== TECHNOLOGY STACK ===================== -->
-
-<h2>🧰 Technology Stack</h2>
-
-### 💻 Languages
-<p><img src="https://skillicons.dev/icons?i=html,css,js,ts,python" /></p>
-
-### 🎨 CSS Frameworks and Libraries
-<p><img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui" /></p>
-
-### ⚛️ JavaScript Frameworks and Libraries
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express" /></p>
-
-### 🗄️ Database and ORM
-<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase" /></p>
-
-### 🚀 Deployment Platforms
-<p><img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" /></p>
-
-### 🎨 Design and Graphics
-<p><img src="https://skillicons.dev/icons?i=figma,ai,ps" /></p>
-
-### 🛠️ Tools and Technologies
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,windows,ubuntu,notion" /></p>
-
-<br />
-
-<!-- ===================== GITHUB CONTRIBUTIONS & SNAKE ===================== -->
-
-<h2>📊 GitHub Statistics and Analysis</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-craft-nayem&theme=tokyonight&bg_color=0B1220&color=38BDF8&line=22D3EE&point=FFFFFF&hide_border=true" alt="GitHub Contribution Graph" width="100%" />
+### CSS Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mui&theme=dark" alt="Tailwind CSS, Bootstrap, Material UI" />
 </p>
 
-<h3>🐍 GitHub Contribution Snake</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/code-craft-nayem/code-craft-nayem/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+### JavaScript Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express&theme=dark" alt="React, Next.js, Redux, Node.js, Express.js" />
 </p>
 
-<br />
+### Databases & ORM
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase&theme=dark" alt="MongoDB, MySQL, PostgreSQL, Prisma, Supabase" />
+</p>
 
-<!-- ===================== FOOTER ===================== -->
+### Deployment Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase&theme=dark" alt="Vercel, Netlify, Firebase" />
+</p>
+
+### Design & Graphics
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop&theme=dark" alt="Figma, Adobe Illustrator, Adobe Photoshop" />
+</p>
+
+### Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,windows,ubuntu,notion&theme=dark" alt="Git, GitHub, VS Code, Postman, Docker, Windows, Ubuntu, Notion" />
+</p>
+
+---
+## GitHub Statistics
 
 <div align="center">
-  <h3>💙 Thanks for visiting my profile!</h3>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1220&height=100&section=footer" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=code-craft-nayem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=22D3EE&text_color=94A3B8" alt="Nayem's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-craft-nayem&theme=tokyonight&hide_border=true&background=0B1220&ring=38BDF8&fire=22D3EE&currStreakNum=94A3B8&sideNums=94A3B8" alt="Nayem's GitHub Streak" width="48%" />
 </div>
+
+---
+## Connect With Me
+
+<p align="center">
+  <a href="https://github.com/code-craft-nayem" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub Profile" />
+  </a>
+  <a href="https://www.instagram.com/nayem16879/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
+  </a>
+  <a href="https://www.facebook.com/share/1FZ7JXhf8e/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile" />
+  </a>
+  <a href="[YOUR_LINKEDIN_PROFILE_URL]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+  <a href="[YOUR_DISCORD_PROFILE_URL]" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile" />
+  </a>
+</p>
+
+---
+
+## Thank You for Visiting
+
+<p align="center">
+  <i>Thanks for stopping by my profile. Feel free to explore my repositories, and connect if you'd like to collaborate or just say hello.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Passion-38BDF8?style=flat-square&labelColor=0B1220" alt="Made with Passion" />
+</p>
